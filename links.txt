@@ -1,0 +1,68 @@
+
+ A simple voice assistant - https://github.com/tuliocarvalh/A-simple-voice-assistant.git 
+ Actions Speak Pyttsx3 - https://github.com/tuliocarvalh?tab=repositories 
+ Analisando Planilhas Com Pandas - https://github.com/tuliocarvalh/Analisando-Planilhas-Com-Pandas.git 
+ Api Flask Twilio - https://github.com/tuliocarvalh/Api-Flask-Twilio.git 
+ Api Lamp Python - https://github.com/tuliocarvalh?tab=repositories 
+ api-flask - https://github.com/tuliocarvalh/api-flask.git 
+ api-historic - https://github.com/tuliocarvalh/api-historic.git 
+ api-run_code - https://github.com/tuliocarvalh/api-run_code.git 
+ api-translate - https://github.com/tuliocarvalh/api-translate.git 
+ api-twitter - https://github.com/tuliocarvalh/api-twitter.git 
+ api-yt - https://github.com/tuliocarvalh/api-yt.git 
+ Audio para Texto - https://github.com/tuliocarvalh/Audio-para-Texto.git 
+ Automacao Driver - https://github.com/tuliocarvalh/Automacao-Driver.git 
+ Bot With MongoDb Python - https://github.com/tuliocarvalh/Bot-With-MongoDb-Python.git 
+ Brute-Force With Python - https://github.com/tuliocarvalh/Brute-Force-With-Python.git 
+ cam - https://github.com/tuliocarvalh/cam.git 
+ Cam And OpenCv-Python - https://github.com/tuliocarvalh/Cam-And-OpenCv-Python.git 
+ Cam in Text - https://github.com/tuliocarvalh/Cam-in-Text.git 
+ ChatBot Python - https://github.com/tuliocarvalh/ChatBot-Python.git 
+ Configurando Ambiente de Trabalho Pyautogui - https://github.com/tuliocarvalh/Configurando-Ambiente-de-Trabalho-Pyautogui.git 
+ Consumindo api arduino - https://github.com/tuliocarvalh?tab=repositories 
+ Controlador com Python e Arduino - https://github.com/tuliocarvalh/Controlador-com-Python-e-Arduino.git 
+ Cotacoes + Tkinter Python - https://github.com/tuliocarvalh/Cotacoes-Tkinter-Python.git 
+ Crawler With Scrapy Python - https://github.com/tuliocarvalh/Crawler-With-Scrapy-Python.git 
+ Criando DataFrame Com Pandas - https://github.com/tuliocarvalh/Criando-DataFrame-Com-Pandas.git 
+ Datetime Python - https://github.com/tuliocarvalh/Datetime-Python.git 
+ Db Api Mongo - https://github.com/tuliocarvalh/Db-Api-Mongo.git 
+ dbmongo - https://github.com/tuliocarvalh/dbmongo.git 
+ Enviando Mensagens Para uma Lista de Constatos Com Python e Pyautogui - https://github.com/tuliocarvalh?tab=repositories 
+ Envio de mensagens para WhatsApp com Twilio Python - https://github.com/tuliocarvalh/Envio-de-mensagens-para-WhatsApp-com-Twilio-Python.git 
+ Funcoes de Automacao Para Action - https://github.com/tuliocarvalh/Funcoes-de-Automacao-Para-Action.git 
+ Hashtag Treinamento Python - https://github.com/tuliocarvalh/Hashtag-Treinamento-Python.git 
+ home - https://github.com/tuliocarvalh/home.git 
+ Img to text - https://github.com/tuliocarvalh/Img-to-text.git 
+ insta-py - https://github.com/tuliocarvalh/insta-py.git 
+ Languages Pyttsx3 on SO - https://github.com/tuliocarvalh/Languages-Pyttsx3-on-SO.git 
+ Linguagens Com Pyttsx3 - https://github.com/tuliocarvalh/Linguagens-Com-Pyttsx3.git 
+ Listar Diretorio - https://github.com/tuliocarvalh/Listar-Diretorio.git 
+ Menu Planilhas Pandas - https://github.com/tuliocarvalh/Menu-Planilhas-Pandas.git 
+ Meu Repo Python - https://github.com/tuliocarvalh/Meu-Repo-Python.git 
+ Obtendo Cotacoes Com Request Python - https://github.com/tuliocarvalh/Obtendo-Cotacoes-Com-Request-Python.git 
+ page_flask - https://github.com/tuliocarvalh/page_flask.git 
+ phone location with python - https://github.com/tuliocarvalh/phone-location-with-python.git 
+ Position Pyautogui - https://github.com/tuliocarvalh/Position-Pyautogui.git 
+ Ppy - https://github.com/tuliocarvalh/Ppy.git 
+ Pyautogui + Youtube - https://github.com/tuliocarvalh/Pyautogui-Youtube.git 
+ Pyautogui e Automacao Com Python - https://github.com/tuliocarvalh/Pyautogui-e-Automacao-Com-Python.git 
+ pytesseract - https://github.com/tuliocarvalh/pytesseract.git 
+ pythonProject - https://github.com/tuliocarvalh/pythonProject.git 
+ PyTrans - https://github.com/tuliocarvalh/PyTrans.git 
+ Pywhatkit Python - https://github.com/tuliocarvalh/Pywhatkit-Python.git 
+ Rede Neural Python - https://github.com/tuliocarvalh/Rede-Neural-Python.git 
+ Request Youtube - https://github.com/tuliocarvalh/Request-Youtube.git 
+ saude - https://github.com/tuliocarvalh/saude.git 
+ Talks MongoDb - https://github.com/tuliocarvalh/Talks-MongoDb.git 
+ tempo - https://github.com/tuliocarvalh/tempo.git 
+ teste - https://github.com/tuliocarvalh?tab=repositories 
+ Tradudor com python - https://github.com/tuliocarvalh/Tradudor-com-python.git 
+ Traduzir Arquivo Txt - Py-trans - https://github.com/tuliocarvalh/Traduzir-Arquivo-Txt---Py-trans.git 
+ Translate GoogleTrans Txt - https://github.com/tuliocarvalh/Translate-GoogleTrans-Txt.git 
+ Twitter With Python - https://github.com/tuliocarvalh/Twitter-With-Python.git 
+ Volume Python - https://github.com/tuliocarvalh/Volume-Python.git 
+ voz - https://github.com/tuliocarvalh/voz.git 
+ wallet - https://github.com/tuliocarvalh/wallet.git 
+ Wikipedia Python - https://github.com/tuliocarvalh/Wikipedia-Python.git 
+ work_json - https://github.com/tuliocarvalh/work_json.git 
+ 
