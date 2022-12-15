@@ -71,7 +71,7 @@ def push_repo(self) :
     comand2 = 'git commit -m "First codes"'
     comand3 = "git push"
     user = "tuliocarvalh"
-    token = "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"
+    token = ""
     repo_name = self.replace(" ", "-")
     writing(diretorio_repo + self + "/" + repo_name)
     sleep(0.5)
